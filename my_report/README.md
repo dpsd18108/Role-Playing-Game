@@ -50,6 +50,18 @@ Role-Playing-Game
 
 
 # 3rd Deliverable 
+![pista](https://user-images.githubusercontent.com/101745590/213013654-0da75ea3-de08-415d-bd1d-be74145ed9a7.png)
+
+<br>Οι εχθροί σαν particle effects έχουν τα καρφιά όπου έτσι δηλώνεται ο θάνατος τους όταν τους ακουμπάει το βέλος.
+<br>Το teleport γίνεται ανάμεσα στις δύο πόρτες. 
+<br>Όσον αφορά το Audio, μπήκε ο ήχος του δάσους. 
+
+![Menu](https://user-images.githubusercontent.com/101745590/213013807-e304d4c6-4ea6-4bd2-b999-2b0710b21d38.png)
+
+Μπήκε μενού με τις δύο πίστες καθώς και οι πληροφορίες μέσω του Info. 
+
+Εδώ διαφαίνεται η δεύτερη πίστα. 
+
 
 
 # Conclusions
